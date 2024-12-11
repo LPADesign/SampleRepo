@@ -1,6 +1,6 @@
 Jake wants to push this change.
 I want to push this change!
-I want to push a third change.
+I want to push a third change
 c
 1
 2
