@@ -1,7 +1,4 @@
-Jake wants to push this change.
-I want to push this change!
-b
-
+I want to make THIS change.
 c
 1
 2
