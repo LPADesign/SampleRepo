@@ -11,7 +11,7 @@ But here is a summary of the commands you'll probably use the most.
     * Creates a new branch in local repository and switches to it.
         > git checkout -b <new_branch_name>
     
-    * Stores your recent changes in stash area
+    * Stores your recent changes in stash area.
         > git stash
 
     * Pulls recent from origin and specified branch and merges them into current branch
