@@ -2,6 +2,5 @@ codebase
 The
 This line of code is critical for everything to work on line 3 specifically DO NOT DELETE OR MOVE
 unorganzied
-Another dev's change
 is
 
