@@ -1,4 +1,3 @@
 # SampleRepo
-This repository is where we will all practice going through a typical git workflow. ABC
+This repository is where we will all practice going through a typical git workflow.
 
-Hello world
