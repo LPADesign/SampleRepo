@@ -1,3 +1,14 @@
 # SampleRepo
-This repository is where we will all practice going through a typical git workflow.
+This repository will hold all LPA Documentation standards including: 
+  - block comments
+  - Brackets
+  - naming conventions
+  - line lengths
+  - Case standards
+  - versions
+  - patch numbers
+  - git commit messages
+  - Pull request messages
+  - Testing
+  - TBD... 
 
